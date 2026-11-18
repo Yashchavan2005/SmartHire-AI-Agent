@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code Settings
+.vscode/
+
+# PyCharm Settings
+.idea/
+
+# Log Files
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
